@@ -1,0 +1,8 @@
+#!/bin/bash
+is fullTime=1
+is partTime=2
+empRateperHr=20
+empCheck=$((RANDOM3))
+case $empCheck in
+	$isfullTime)
+
